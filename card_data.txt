@@ -1,0 +1,3 @@
+2022-12-11 04:31:	120	charizard	pokemon	PSA 10
+2022-12-11 04:33:	123	bulbasaur	pokemon	PSA 10
+2022-12-11 05:11:	123.0	123	134	123
